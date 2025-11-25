@@ -42,7 +42,6 @@ suspend fun <T> retry(
 
 - **block**  
   The suspending operation to execute.
--
 
 ## Basic Usage
 
